@@ -1,0 +1,8 @@
+{
+    "prompt": "a cartoon image of happy cow standing, on a white background, high quality, high resolution, 8k",
+    "negative_prompt": "low, bad",
+    "width": 1024, 
+    "height": 1024, 
+    "guidance_scale": 7,
+    "num_inference_steps" : 50
+}
